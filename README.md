@@ -1,7 +1,7 @@
 #HOW TO USE
 #1: Ensure audizip.py and audiozip.db are downloaded and preferably in the same file.
-#2: (Optional) Ensure that the .db file has a songs and playlists category
-#3: (Optional) Ensure that .py file is configured to connect to the correct db file.
+#2: (Optional) Ensure that the .db file has a song and playlists category
+#3: Ensure that .py file is configured to connect to the correct db file.
 #4: You may now start the application via exe or terminal and use all features accordingly
 #5: Enjoy browsing your music on your computer or whats stored in our local database!
 
